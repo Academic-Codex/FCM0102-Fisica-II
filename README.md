@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/FCM0102-Fisica-II">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:39:34.354289Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/FCM0102-Fisica-II?utm_source=FCM0102-Fisica-II&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:51:05.278942Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
